@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 email :test@test.com
-=======
-email :ㅀㅇㅎㅎㅇㅎㅇ
->>>>>>> origin/example
-gitID :
+gitID : test
